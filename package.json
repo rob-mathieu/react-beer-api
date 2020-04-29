@@ -1,0 +1,21 @@
+{
+  "name": "react-beer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "11.15.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0"
+  }
+}
